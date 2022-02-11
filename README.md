@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thebranch
 - 👀 I’m interested in devops, cloudops 
-- 🌱 I’m currently learning terraform, kuberenetes
+- 🌱 I’m currently learning terraform, kubernetes
 - 💞️ I’m looking to collaborate on open source projects related to task automation, jenkins, devsecops
